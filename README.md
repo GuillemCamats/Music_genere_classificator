@@ -1,4 +1,4 @@
-## Music genere CLassificator
+## Music genere Classificator
 
 ### Autor
 Guillem Camats Felip
